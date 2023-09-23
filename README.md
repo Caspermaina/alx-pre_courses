@@ -1,2 +1,4 @@
-# alx-pre_courses
-im now a ALX student , this is m first repositry as a full stack engineer
+# git clone https://{caspermaina}@github.com/{caspermaina}
+/alx-pre_course.git
+cloning into 'alx-pre_course'...
+warning:you appear to have cloned an empty repository
